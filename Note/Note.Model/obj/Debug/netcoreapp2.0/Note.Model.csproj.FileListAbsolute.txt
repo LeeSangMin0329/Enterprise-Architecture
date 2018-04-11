@@ -1,0 +1,9 @@
+D:\WebProject\Note\Note.Model\bin\Debug\netcoreapp2.0\Note.Model.deps.json
+D:\WebProject\Note\Note.Model\bin\Debug\netcoreapp2.0\Note.Model.dll
+D:\WebProject\Note\Note.Model\bin\Debug\netcoreapp2.0\Note.Model.pdb
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.csprojResolveAssemblyReference.cache
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.csproj.CoreCompileInputs.cache
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.AssemblyInfoInputs.cache
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.AssemblyInfo.cs
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.dll
+D:\WebProject\Note\Note.Model\obj\Debug\netcoreapp2.0\Note.Model.pdb

@@ -1,0 +1,14 @@
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.DAL.deps.json
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.DAL.dll
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.DAL.pdb
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.IDAL.dll
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.Model.dll
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.IDAL.pdb
+D:\WebProject\Note\Note.DAL\bin\Debug\netcoreapp2.0\Note.Model.pdb
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.csprojResolveAssemblyReference.cache
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.csproj.CoreCompileInputs.cache
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.AssemblyInfoInputs.cache
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.AssemblyInfo.cs
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.csproj.CopyComplete
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.dll
+D:\WebProject\Note\Note.DAL\obj\Debug\netcoreapp2.0\Note.DAL.pdb
